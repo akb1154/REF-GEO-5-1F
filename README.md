@@ -8,4 +8,4 @@
 
 ## Weitere Verweise — Interessantes
 
-[IRIS – Seismic monitor (Interaktive Software, die Anzeigt wo es in der letzten Zeit Erdbeben gab)](http://ds.iris.edu/seismon/zoom/index.phtml)
+[IRIS – Seismic monitor (Interaktive Software, die Anzeigt wo es in der letzten Zeit Erdbeben gab)](http://ds.iris.edu/seismon/index.phtml)
